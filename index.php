@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.aol.ca/?r=www.aol.com");
+header("Location: https://www.cdonepricecleaners.com/wash-fold-laundry-service/");
 die();
 ?>
